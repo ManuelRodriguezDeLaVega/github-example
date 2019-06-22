@@ -1,0 +1,33 @@
+Business problem
+
+What if we could look at specific important/busy areas in the city or place of interest of a city we are visiting.
+In that case what if we could cluster neighbourhoods on the basis of the potential tourism interests.
+It would help travellers, tourism agencies and real estate investors too.
+
+Explanation
+
+Toronto is a fast growing financial hub. With increasing city centres and sparling residential hubs. This
+makes tourism and real estate one of many growing business ventures Toronto has had. The city is
+well connected and well planned and is financially flourishing and that aspect brings in a lot of
+travellers. Hence determining interests and hotspots is definitely beneficial and aids new tourists and
+investors
+
+Stakeholders
+
+Anyone who's interested in the region, it can be individuals, tourists or even the residents who would
+want to know if they are in the right neighbourhood
+
+Data
+
+Data used in this project is retrieved from wiki data and foursquare API data Processed under a valid
+foursquare developer account, geospatial data was also retrieved for the purpose of mapping and
+geo-visualization.
+
+Methodology
+
+We explore and analyse data using pandas (python) in a jupyter terminal the insights were
+processed and found through a clustering analysis and the findings were depicted using folium in a
+geospatial mapped environment
+
+Conclusion 
+The data related to problem was analysed and provided insights were followed and observer using required visualisation techniques.
